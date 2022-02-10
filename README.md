@@ -1,12 +1,12 @@
-# React: Ciclo de vida dos componentes 
+# React: Components lifecycle 
 
-- Aprenda sobre o ciclo de vida dos componentes React
-- Entenda os possíveis problemas de performance da aplicação
-- Saiba adicionar o padrão de projetos Observable em seus sites
-- Conheça diferentes forma de carregar um SVG dentro do site
-- Compreenda a diferença entre Statefull e Stateless components
+Project based on "Alura's course about React - components lifecycle."
 
-### Curso finalizado!
+The project's idea is to create dynamic system notes.
+
+## Project developed with:
+
+- React
 
 ## To run this project:
 
