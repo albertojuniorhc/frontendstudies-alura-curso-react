@@ -1,13 +1,12 @@
 import React, { Component } from "react";
 import "./estilo.css";
-import {ReactComponent as DeleteSVG} from "../../assets/img/delete.svg";
+import { ReactComponent as DeleteSVG } from "../../assets/img/delete.svg";
 
 class CardNota extends Component {
-  
-  apagar(){
+  apagar() {
     this.props.apagarNota(this.props.indice);
   }
-  
+
   render() {
     return (
       <section className="card-nota">
