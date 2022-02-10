@@ -6,4 +6,15 @@
 - Conheça diferentes forma de carregar um SVG dentro do site
 - Compreenda a diferença entre Statefull e Stateless components
 
-#### Curso em andamento!
+### Curso finalizado!
+
+## To run this project:
+
+In the project directory, you can run:
+
+```bash
+npm start
+```
+
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in your browser.
